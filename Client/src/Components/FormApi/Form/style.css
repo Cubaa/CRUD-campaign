@@ -1,0 +1,55 @@
+button.rbt-token-remove-button{
+    background-color: transparent;
+    border: none;
+}
+
+div.rbt{
+    width: 90%;
+}
+input.rbt-input-main{
+    background-color: #E8EBEF;
+}
+
+div.rbt-input-multi{
+    background-color: #E8EBEF;
+}
+
+input.rbt-input-main, input.rbt-input-hint{
+    border: none;
+    color:#8F979F;
+    
+}
+
+input.rbt-input-main::placeholder{
+    color: #8F979F;
+    font-size: 0.8em;
+    font-family: 'Nunito Sans', sans-serif;
+   
+}
+div.rbt-input-multi.focus{
+    border: none;
+    box-shadow: none;
+   
+}
+input.rbt-input-main.focus{
+    border: none;
+    box-shadow: none;
+    background-color: #E8EBEF; 
+}
+input.rbt-input-main::placeholder{
+    color: #8F979F;
+    font-size: 0.8em;
+    font-family: 'Nunito Sans', sans-serif;
+}
+div.rbt-token{
+    background-color: #fff;
+}
+div.rbt-menu{
+    background-color: #E8EBEF;
+    margin-top: 0.3em;
+}
+div.rbt-menu a{
+    color: #8F979F;
+    font-size: 0.9em;
+    font-family: 'Nunito Sans', sans-serif;
+}
